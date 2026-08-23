@@ -16,16 +16,8 @@ Al Rajhi Bank is one of the largest banking institutions in Saudi Arabia, servin
 - **Policy and customer guideline analysis** — how the bank's privacy policy, fraud awareness materials, and consumer protection principles hold up against what customers actually need to stay safe.
 - **Proposed enhanced security approach** — ten concrete recommendations, from phishing-resistant MFA and adaptive risk-based access control to stronger third-party API security and incident response testing, each tied back to how it improves confidentiality, integrity, or availability.
 
-## Repository structure
 
-```
-cys403-alrajhi-bank-security-assessment/
-├── README.md
-├── diagrams/
-│   └── risk-matrix.jpeg         # Likelihood × impact scoring matrix used in the risk register
-└── docs/
-    └── CYS403_Alrajhi_Bank_Security_Report.pdf   # Full report
-```
+
 
 ## Course context
 
